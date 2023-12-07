@@ -16,3 +16,5 @@ $ cd input
 $ terraform apply 
 
 also check the readme file in side the input folder for more detail
+
+https://docs.google.com/document/d/1rxwNGoM2JL-5PfAVTheMMnAECSb9adc8dOEDYuY9lYs/edit
